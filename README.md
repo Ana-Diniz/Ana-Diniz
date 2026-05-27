@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm Ana, a computer science student at State University Paulista (UNESP) Rio Claro, SP.
+I'm Ana, a **computer science** student at State University Paulista (**UNESP**) Rio Claro, SP.
 
 I enjoy exploring everything that i can from data structures and algorithms to software engineering. Beyond coding, I really like working with team coordination, visual identity/design for projects, and tech outreach.
 
